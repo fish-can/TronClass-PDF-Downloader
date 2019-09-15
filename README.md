@@ -1,5 +1,7 @@
 # TronClass-PDF-Downloader
 
+以PDF 格式下載TronClass 上僅供預覽的文件
+
 ## Example only for TKU iClass
 
 You can modify the .slice(`num`) in content_script.js
