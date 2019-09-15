@@ -1,0 +1,1 @@
+window.open(decodeURIComponent(document.getElementById('pdf-viewer').src.slice(51)));
