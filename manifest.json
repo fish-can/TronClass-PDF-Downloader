@@ -1,7 +1,7 @@
 {
     "manifest_version": 2,
     "name": "TronClass PDF Downloader",
-    "version": "1.0",
+    "version": "1.1",
     "description": "以PDF 格式下載TronClass 上僅供預覽的文件。",
     "icons": {
         "16": "icon16.png",
