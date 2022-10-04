@@ -1,21 +1,32 @@
 # TronClass-PDF-Downloader
 
-以PDF 格式下載TronClass 上僅供預覽的文件
+English | [中文](README-ZH.md)
 
-## How to use
+Download preview files on TronClass in PDF format.
 
-### Chrome
+## Install
+
+### Google Chrome
 
 1. Goto [chrome://extensions/](chrome://extensions/)
-2. Open developer mode
+2. Enable developer mode
 3. Load unpacked extensions
 4. Select directory folder
 
-### Firefox
+### Mozilla Firefox
 
-1. Goto [about:debugging#addons](about:debugging#addons)
-2. Load Temporary Add-on...
-3. Select manifest.json
+Must use v1.x version of [Releases v1.1](https://github.com/fish-can/TronClass-PDF-Downloader/releases/tag/v1.1)
+
+### Microsoft Edge
+
+1. Goto [edge://extensions/](edge://extensions/)
+2. Enable developer mode
+3. Load the archive
+4. Select directory folder
+
+## Usage
+
+Go to the read-only mode of the document page, click the icon of the extension to download the PDF file.
 
 ## Directory structure
 
